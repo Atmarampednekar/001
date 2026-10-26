@@ -1,0 +1,13 @@
+[
+  {
+    "id": "clean_1792997754750",
+    "timestamp": "2026-10-26T06:55:54.750Z",
+    "dryRun": true,
+    "mbFreed": 1053,
+    "filesDeleted": 1400,
+    "targetsCleaned": [
+      "target_user_temp",
+      "target_chrome_cache"
+    ]
+  }
+]
